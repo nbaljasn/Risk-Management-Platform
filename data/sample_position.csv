@@ -1,3 +1,0 @@
-portfolio,id,tradeID,ticker,instrumentType,positionOpenDate,units,positionOpenPrice,positionFace,currency,status,positionCloseDate,positionClosePrice,positionClosedFace,bookedCurrency,currencyRateOpen,currencyCostOpen,commissionOpen,currencyRateClosed,currencyCostClosed,commissionClosed,bookedAmountOpen,bookedAmountClosed,totalCost,totalBooked
-live,LIVE77.PP00001,TRADE_ID777,CSPX.L,ETF,2024-09-26,5.0,610.354,3051.77,USD,OPEN,GBP,0.749178,-5.7,-3.0,-2286.32,-8.7,-2295.02
-
